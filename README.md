@@ -1,4 +1,4 @@
-Khyber pinda Restaurant management system
+
 # Khyber Pinda Restaurant Management System
 
 The **Khyber Pinda Restaurant Management System** is a comprehensive web application designed to streamline restaurant operations. It allows the admin to efficiently manage and store restaurant records, while users can explore the restaurant’s location, overview, menu, prices, and even place food orders online.
